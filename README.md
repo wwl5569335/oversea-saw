@@ -1,7 +1,7 @@
 # Oversea-saw / 跷跷板
 
 > 本项目系基于Android平台的软件工程课程设计
-> 
+> **截止日期：2020-1-3**
 > An Android based project for Software Engineering course design.
 
 ## 要求
@@ -44,7 +44,7 @@
 > 设计并构建数据库设施（MySQL）
 
 首先需要设计出所需要的数据模式概念模型，然后根据模型设计数据库  
-__目前聚焦的数据模式：*身份认证* __
+**目前聚焦的数据模式：*身份认证* **
 
 + **使用的数据库名：** `oversea_saw`
 + **数据库地址：** `ip待定:3306`
